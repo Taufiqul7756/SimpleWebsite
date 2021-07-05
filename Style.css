@@ -1,0 +1,133 @@
+
+.header{
+    color: cyan;
+    background-color: darkgrey;
+    padding: 15px;
+    text-align:left;
+}
+
+
+.tour{
+    width: 100%;
+    
+}
+.sajek{
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 20%;
+    margin: 2%;
+    padding: 15px;
+    display: inline-block;
+    box-shadow: 10px 10px 5px grey;
+
+    }
+
+.sajek:hover{
+        background-color:grey;
+        color: blanchedalmond;
+    }
+
+.sylhet{
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 20%;
+    margin: 2%;
+    padding: 15px;
+    display: inline-block;
+    box-shadow: 10px 10px 5px grey;
+
+
+}   
+
+.coxsbazar{
+    border: 5px solid red;
+    border-radius: 20px;
+    width: 20%;
+    margin: 1%;
+    padding: 15px;
+    display: inline-block;
+    box-shadow: 10px 10px 5px grey;
+    }
+
+.h3{
+     text-align: center;
+     background-color: tomato;
+                }
+
+.sajekspan{
+    color: blueviolet;
+        }
+.welcometext{
+    text-align: justify;
+}
+.subscribe{
+    color: brown;
+    
+         }
+.h4{
+    text-align: center;
+    background-color: tomato;
+
+}
+.h5{
+    text-align: center;
+    background-color: tomato;
+
+}
+
+
+
+
+.footer{
+    background-color: silver;
+    padding: 50px;
+    text-align: center;
+}
+
+.forMore{
+    background-color: tomato;
+    margin-left: 100px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 1s;
+    margin-top: 5px;
+}
+.forMore:hover{
+    background-color: black;
+    color: blanchedalmond;
+}
+
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+   
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav a:first-child{
+      float: left;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+
